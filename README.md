@@ -1,6 +1,8 @@
 # logic_and_learning_in_network_cascades
 
-This is a preprint of our submitted work.
+This is a preprint of our submitted work.  
+
+https://github.com/galenwilkerson/logic_and_learning_in_network_cascades/blob/master/Logic_and_Learning_in_Network_Cascades___arXiv.pdf
 
 Abstract
 
