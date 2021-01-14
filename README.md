@@ -1,4 +1,4 @@
-# logic_and_learning_in_network_cascades
+# Preprint Logic and Learning in Network Cascades
 
 This is a preprint of our submitted work.  
 
